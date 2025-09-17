@@ -22,3 +22,5 @@ Active Directory'den kullanıcı ve bilgisayar bilgilerini sorgulayan PowerShell
 ## Ön Koşullar
 ```powershell
 Install-Module ActiveDirectory
+
+**Uyarı**: Script, AD'de hassas işlemler (kapatma, NetBIOS) yapar. Test ortamında deneyin.
