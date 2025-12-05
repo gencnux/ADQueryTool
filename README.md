@@ -15,7 +15,7 @@ Active Directory'den kullanıcı ve bilgisayar bilgilerini sorgulayan PowerShell
 2. Yönetici haklarıyla çalıştırın: `.\ADQueryTool.ps1`.
 
 ## Kullanım
-- Domain adı girin (örneğin, quicksigorta.local).
+- Domain adı girin (örneğin, domain.local).
 - Gerekirse credential ekleyin.
 - OU seçip bilgisayarları yükleyin, sorguları çalıştırın.
 
